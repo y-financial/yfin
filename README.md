@@ -1,0 +1,2 @@
+# yfin
+YFIN token contract
